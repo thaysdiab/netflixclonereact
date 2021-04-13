@@ -7,7 +7,7 @@ Data from: https://api.themoviedb.org/3
 In the project directory, you can run:
 ## Available Scripts
 <h1 align="center">
-  <img alt="Result" title="Result" src="../result1.png" />
+  <img alt="Result" title="Result" src="/result1.png" />
 </h1>
 ### `npm start`
 
