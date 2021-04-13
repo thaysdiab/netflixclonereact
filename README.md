@@ -11,13 +11,12 @@ Dados: https://api.themoviedb.org/3
 
 ## Para rodar
 Você precisará gerar sua API_KEY no https://api.themoviedb.org/3 para colocar no seu arquivo Tmdb.js.
-
-* Clone este repositório
+## Clone este repositório
 $ https://github.com/thaysrq/netflixclonereact
-* Acesse a pasta do projeto no terminal/cmd
+## Acesse a pasta do projeto no terminal/cmd
 $ cd/netflixclonereact
-* Instale as dependências
+## Instale as dependências
 $ npm install @material-ui/core
 $ npm install @material-ui/icons
-* Execute a aplicação
+## Execute a aplicação
 $ npm start
