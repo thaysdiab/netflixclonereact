@@ -1,24 +1,24 @@
-# Clone Netflix for React Study
+# Clone Netflix para estudo de ReactJS
 
-Data from: https://api.themoviedb.org/3
+Clone da página da Netflix usando ReactJS + Material UI.
 
-## Available Scripts
-
-In the project directory, you can run:
-## Available Scripts
+Dados: https://api.themoviedb.org/3
+## Resultado
 <h1 align="center">
   <img alt="Result" title="Result" src="/result1.png" />
+  <img alt="Result" title="Result" src="/result2.png" />
 </h1>
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Para rodar
+Você precisará gerar sua API_KEY no https://api.themoviedb.org/3 para colocar no seu arquivo Tmdb.js.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Clone este repositório
+$ https://github.com/thaysrq/netflixclonereact
+# Acesse a pasta do projeto no terminal/cmd
+$ cd/netflixclonereact
+# Instale as dependências
+$ npm install @material-ui/core
+$ npm install @material-ui/icons
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Execute a aplicação
+$ npm start
